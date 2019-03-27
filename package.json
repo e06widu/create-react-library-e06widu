@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DimiMikadze/create-react-library.git"
+    "url": "git+https://github.com/e06widu/create-react-library-e06widu.git"
   },
-  "author": "Dimi Mikadze <dimi@udilia.com>",
+  "author": "Janith Widarshana",
   "bugs": {
-    "url": "https://github.com/DimiMikadze/create-react-library/issues"
+    "url": "https://github.com/e06widu/create-react-library-e06widu/issues"
   },
-  "homepage": "https://github.com/DimiMikadze/create-react-library#readme",
+  "homepage": "https://github.com/e06widu/create-react-library-e06widu#readme",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
