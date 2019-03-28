@@ -1,12 +1,13 @@
 import React from 'react';
 import Example from '../lib';
-import { SecondExample, DashBoard } from '../lib';
+import { SecondExample } from '../lib';
+import Demo from './Demo'
 
 const App = () => (
   <div>
     <Example />
     <SecondExample />
-    <DashBoard/>
+    <Demo></Demo>
   </div>
 );
 
