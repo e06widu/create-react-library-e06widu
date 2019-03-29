@@ -20,7 +20,7 @@
   "homepage": "https://github.com/e06widu/create-react-library-e06widu#readme",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0"
+    
   },
   "devDependencies": {
     "@babel/core": "7.2.2",
