@@ -1,6 +1,6 @@
 {
   "name": "create-react-library-e06widu",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "React NPM library starter kit based on Facebook's create react app",
   "main": "build/index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "homepage": "https://github.com/e06widu/create-react-library-e06widu#readme",
   "license": "MIT",
   "dependencies": {
-    "react-router-dom": "^5.0.0"
+    "axios": "^0.18.0"
   },
   "devDependencies": {
     "@babel/core": "7.2.2",

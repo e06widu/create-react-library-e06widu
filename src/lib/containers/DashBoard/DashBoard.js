@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
-import {withRouter} from 'react-router-dom';
+// import {withRouter} from 'react-router-dom';
 
 class Dashboard extends Component {
 
     handleLoginClick = () => {
-        // this.props.loginClick();
-        this.props.history.push('/ex2');
+        this.props.loginClick();
+        // this.props.history.push('/ex2');
 
     }
 
@@ -21,4 +21,4 @@ class Dashboard extends Component {
     }
 }
 
-export default withRouter(Dashboard);
+export default Dashboard;
